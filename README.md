@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-124&layout=compact&theme=vision-friendly-dark" alt="Miguel-124" /></p>
 
 <h3 align="left">🌐 Socials:</h3>
-<a href="https://www.linkedin.com/in/michał-górecki124/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="michał-górecki124" height="30" width="40" /></a>    
-<a href="https://instagram.com/mikemiguel_12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="mikemiguel_12" height="30" width="40" /></a>    
-<a href="https://www.facebook.com/profile.php?id=100004433439341" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="mikemiguel_12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michał-górecki124/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="michał-górecki124" height="90" width="120" /></a>    
+<a href="https://instagram.com/mikemiguel_12" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="mikemiguel_12" height="60" width="80" /></a>    
+<a href="https://www.facebook.com/profile.php?id=100004433439341" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="mikemiguel_12" height="80" width="100" /></a>
 
