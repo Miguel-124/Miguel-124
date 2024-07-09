@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-124&layout=compact&theme=dark" alt="Miguel-124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-124&layout=compact&theme=vision-friendly-dark" alt="Miguel-124" /></p>
 
 <h3 align="left">🌐 Socials:</h3>
 <a href="https://www.linkedin.com/in/michał-górecki124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał-górecki124" height="30" width="40" /></a>    
