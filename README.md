@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <p align="left">📫 How to reach me email: michalgorecki124@gmail.com</p>
 
 <h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  
