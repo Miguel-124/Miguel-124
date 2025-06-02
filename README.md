@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">💫 About Me:</h3>
 <p align="left">👀 I’m interested in Python programming</p>
-<p align="left">🌱 I’m currently learning Python/JS/C# with DJANGO/fastAPI/Selenium</p>
+<p align="left">🌱 I’m currently learning Python/JS with fastAPI</p>
 <p align="left">💻 I'm highly motivated to learn new features and technologies.</p>
-<p align="left">💞️ I'm looking for an opportunity in Python with JS/DJANGO/fastAPI/Selenium.</p>
+<p align="left">💞️ I'm looking for an opportunity in Python with fastAPI/JS/Selenium.</p>
 <p align="left">📫 How to reach me email: michalgorecki124@gmail.com</p>
 
 <h3 align="left">💻 Tech Stack:</h3>
