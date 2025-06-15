@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Michał Górecki
-**Junior Python Developer** with 2+ years of hands-on experience in test automation and scripting. 
-Currently completing my B.Eng. in Computer Science at WSEI, building on a Teleinformatics diploma from Technikum Łączności.
-Driving quality as a System Test Specialist at Aptiv for the past 3 years.
+**Junior Python Developer** with 2+ years of hands-on experience in test automation and scripting.  
+Currently completing my B.Eng. in Computer Science at WSEI, building on a Teleinformatics diploma from Technikum Łączności.  
+Driving quality as a System Test Specialist at Aptiv for the past 3 years.  
 
 <!--
 **Miguel-124/Miguel-124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,19 +41,19 @@ Here are some ideas to get you started:
 
 ### SmartInvestor (engineer’s thesis)  
 Full-stack investment analysis platform (web & mobile) with portfolio tracking, real-time data, technical indicators and AI-based trend predictions.  
-**Stack:** FastAPI, PostgreSQL, TensorFlow, scikit-learn, Yahoo Finance & Binance APIs, Vue.js, Tailwind CSS, React Native
+**Stack:** FastAPI, PostgreSQL, TensorFlow, scikit-learn, Yahoo Finance & Binance APIs, Vue.js, Tailwind CSS, React Native  
 🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SmartInvestor)
 
 ### Coding Challenge Secure AI Auth App
 Authenticated interview-prep tool generating easy/medium/hard coding questions via ChatGPT. Users sign in with Google (Clerk Auth), frontend in React/TypeScript, backend in FastAPI, and data persisted with SQLAlchemy.  
-**Stack:** React, TypeScript, FastAPI (Python), Clerk Auth, SQLAlchemy, OpenAI API
+**Stack:** React, TypeScript, FastAPI (Python), Clerk Auth, SQLAlchemy, OpenAI API  
 🔗 [github.com/Miguel-124/Coding_Challenge-Secure_AI_Auth_App](https://github.com/Miguel-124/Coding_Challenge-Secure_AI_Auth_App)
 
 ### JavaScript & Selenium Projects  
 **Combined tutorial showcase:**  
-- End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines
+- End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines  
 🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SeleniumPythonTests )
-- Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch
+- Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch  
 🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/WeatherForecast)
 **Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins
 
