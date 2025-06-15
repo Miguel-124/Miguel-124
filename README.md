@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Michał Górecki
 **Junior Python Developer** with 2+ years of hands-on experience in test automation and scripting. 
-Currently completing my B.Eng. in Computer Science at WSEI, building on a Teleinformatics diploma from Technikum Łączności
+Currently completing my B.Eng. in Computer Science at WSEI, building on a Teleinformatics diploma from Technikum Łączności.
 Driving quality as a System Test Specialist at Aptiv for the past 3 years.
 
 <!--
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 
@@ -40,19 +41,21 @@ Here are some ideas to get you started:
 
 ### SmartInvestor (engineer’s thesis)  
 Full-stack investment analysis platform (web & mobile) with portfolio tracking, real-time data, technical indicators and AI-based trend predictions.  
-**Stack:** FastAPI, PostgreSQL, TensorFlow, scikit-learn, Yahoo Finance & Binance APIs, Vue.js, Tailwind CSS, React Native  
+**Stack:** FastAPI, PostgreSQL, TensorFlow, scikit-learn, Yahoo Finance & Binance APIs, Vue.js, Tailwind CSS, React Native
 🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SmartInvestor)
 
-### Coding Challenge Secure AI Auth App  
+### Coding Challenge Secure AI Auth App
 Authenticated interview-prep tool generating easy/medium/hard coding questions via ChatGPT. Users sign in with Google (Clerk Auth), frontend in React/TypeScript, backend in FastAPI, and data persisted with SQLAlchemy.  
 **Stack:** React, TypeScript, FastAPI (Python), Clerk Auth, SQLAlchemy, OpenAI API
 🔗 [github.com/Miguel-124/Coding_Challenge-Secure_AI_Auth_App](https://github.com/Miguel-124/Coding_Challenge-Secure_AI_Auth_App)
 
 ### JavaScript & Selenium Projects  
 **Combined tutorial showcase:**  
-- End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines  
-- Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch  
-**Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins 
+- End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines
+🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SeleniumPythonTests )
+- Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch
+🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/WeatherForecast)
+**Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins
 
 ### SmartInwestor – Mobile Portfolio Tracker  
 React Native app with dynamic portfolio logic, real-time price fetching, and data visualizations; backed by FastAPI and MongoDB.  
