@@ -1,5 +1,5 @@
 ## Hi there 👋 I’m Michał Górecki
-**Junior Python Developer** with 2+ years of hands-on experience in test automation and scripting.  
+**Python Developer** with 3+ years of hands-on experience in test automation and scripting.  
 Currently completing my B.Eng. in Computer Science at WSEI, building on a Teleinformatics diploma from Technikum Łączności.  
 Driving quality as a System Test Specialist at Aptiv for the past 3 years.  
 
@@ -52,9 +52,9 @@ Authenticated interview-prep tool generating easy/medium/hard coding questions v
 ### JavaScript & Selenium Projects  
 **Combined tutorial showcase:**  
 - End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines  
-🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SeleniumPythonTests )
+🔗 [github.com/Miguel-124/SeleniumPythonTests](https://github.com/Miguel-124/SeleniumPythonTests )
 - Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch  
-🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/WeatherForecast)
+🔗 [github.com/Miguel-124/WeatherForecast](https://github.com/Miguel-124/WeatherForecast)
 **Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins
 
 ### SmartInwestor – Mobile Portfolio Tracker  
