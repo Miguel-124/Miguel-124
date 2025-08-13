@@ -58,8 +58,8 @@ Authenticated interview-prep tool generating easy/medium/hard coding questions v
 **Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins
 
 ### AI & Automation Toolkit Projects
-•	Suite of Python-based AI applications, including an image classifier using deep learning (TS), a resume analysis tool with NLP techniques, and an autonomous AI agent for task automation. 
-**Stack:** Python ▪ TensorFlow/Keras ▪ OpenCV ▪ scikit-learn ▪ spaCy ▪ LangChain ▪ API Integration
+•	Suite of Python-based AI applications, including an image classifier using deep learning (TS), a resume analysis tool with NLP techniques, and an autonomous AI agent for task automation.   
+**Stack:** Python ▪ TensorFlow/Keras ▪ OpenCV ▪ scikit-learn ▪ spaCy ▪ LangChain ▪ API Integration  
 🔗 [github.com/Miguel-124/AI_and_Automation_Toolkit_Projects](https://github.com/Miguel-124/AI_and_Automation_Toolkit_Projects)
 
 
