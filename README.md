@@ -54,8 +54,14 @@ Authenticated interview-prep tool generating easy/medium/hard coding questions v
 - End-to-end test suite automating user flows and validations with Selenium & Pytest, integrated into Jenkins pipelines  
 🔗 [github.com/Miguel-124/SeleniumPythonTests](https://github.com/Miguel-124/SeleniumPythonTests )
 - Vanilla JavaScript SPA with dynamic UI components, event-driven interactions and responsive design built from scratch  
-🔗 [github.com/Miguel-124/WeatherForecast](https://github.com/Miguel-124/WeatherForecast)
+🔗 [github.com/Miguel-124/WeatherForecast](https://github.com/Miguel-124/WeatherForecast)  
 **Stack:** JavaScript ▪ HTML/CSS ▪ Python ▪ Selenium ▪ Pytest ▪ Jenkins
+
+### AI & Automation Toolkit Projects
+•	Suite of Python-based AI applications, including an image classifier using deep learning (TS), a resume analysis tool with NLP techniques, and an autonomous AI agent for task automation. 
+**Stack:** Python ▪ TensorFlow/Keras ▪ OpenCV ▪ scikit-learn ▪ spaCy ▪ LangChain ▪ API Integration
+🔗 [github.com/Miguel-124/AI_and_Automation_Toolkit_Projects](https://github.com/Miguel-124/AI_and_Automation_Toolkit_Projects)
+
 
 ### SmartInwestor – Mobile Portfolio Tracker  
 React Native app with dynamic portfolio logic, real-time price fetching, and data visualizations; backed by FastAPI and MongoDB.  
