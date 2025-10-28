@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### SmartInvestor (engineer’s thesis)  
 Full-stack investment analysis platform (web & mobile) with portfolio tracking, real-time data, technical indicators and AI-based trend predictions.  
 **Stack:** FastAPI, PostgreSQL, TensorFlow, scikit-learn, Yahoo Finance & Binance APIs, Vue.js, Tailwind CSS, React Native  
-🔗 [github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SmartInvestor)
+🔗 [https://github.com/Miguel-124/SmartInvestor](https://github.com/Miguel-124/SmartInwestor/tree/dev_back)
 
 ### Coding Challenge Secure AI Auth App
 Authenticated interview-prep tool generating easy/medium/hard coding questions via ChatGPT. Users sign in with Google (Clerk Auth), frontend in React/TypeScript, backend in FastAPI, and data persisted with SQLAlchemy.  
