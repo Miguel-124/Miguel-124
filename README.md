@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me
-- 🔭 I’m building full-stack solutions: Python (FastAPI) & modern JavaScript (React).  
+- 🔭 I’m building full-stack solutions: Python (Django/FastAPI) & modern JavaScript (React).  
 - 🌱 I’m exploring ML/AI fundamentals (TensorFlow, NLTK) and end-to-end automation (Selenium, Jenkins).  
 - 💬 Ask me about Python backends, REST APIs, CI/CD pipelines or interview prep tools.  
 - 📫 Reach me at michalgorecki124@gmail.com  
